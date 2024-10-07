@@ -1,0 +1,21 @@
+{
+    "name": "gravitywiz/faker",
+    "version": "1.0.0",
+    "description": "A class for generating fake entry data for Gravity Forms forms. Note, this class does not actually create the entries.",
+    "license": [
+        "GPL-2.0-or-later"
+    ],
+    "require": {
+        "fakerphp/faker": "^1.20.0"
+    },
+	"config": {
+		"platform": {
+			"php": "7.3"
+		}
+	},
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
