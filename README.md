@@ -1,4 +1,4 @@
-# Gravity Wiz Faker
+# Gravity Wiz Faker [![Packagist Version](https://img.shields.io/packagist/v/gravitywiz/faker)](https://packagist.org/packages/gravitywiz/faker)
 
 A class for generating fake entry data for Gravity Forms forms. Note, this class does not actually create the entries.
 
